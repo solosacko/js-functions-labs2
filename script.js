@@ -217,7 +217,7 @@ function calculateGrade(score) {
 console.log('Exercise 12 Result:', calculateGrade(85));
 }
 //================================================================================================
-
+/*
 Exercise 13: createUsername()
 Define a function called createUsername. It should take a first name and a last name and return a username. The username should be a combination of the following:
 - The first three letters of the first name.
@@ -246,6 +246,6 @@ let numArgs = (args) => {
 console.log('Exercise 14 Result:', numArgs(1, 2, 3, 4,));
 }
 //===============================================================================
-git add -A
-git commit -m
-git push origin main
+// git add -A
+// git commit -m
+// git push origin main
